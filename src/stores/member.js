@@ -6,7 +6,7 @@ import { ref } from 'vue'
 
 const REST_MEMBER_API = `http://localhost:8080/member`
 
-const apiKey = import.meta.env.VITE_ENV_KAKAO_API_KEY
+const apiKey = "26966ba6b4868e85a7fc9760936d8e28"
 
 const loginMember = ref(null)
 

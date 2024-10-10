@@ -26,7 +26,7 @@ const app = createApp(App)
 
 pinia.use(piniaPluginPersistedstate)
 
-useKakao('892506882ffac8549eb7d9c813805c6e', ['services']);
+useKakao('26966ba6b4868e85a7fc9760936d8e28', ['services']);
 app.use(pinia)
 app.use(router)
 

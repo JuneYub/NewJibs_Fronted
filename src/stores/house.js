@@ -5,7 +5,7 @@ import axios from 'axios'
 
 const REST_HOUSE_API = `http://localhost:8080/house`
 // 카카오맵 api key
-const KAKAO_MAP_KEY = '892506882ffac8549eb7d9c813805c6e'
+const KAKAO_MAP_KEY = '26966ba6b4868e85a7fc9760936d8e28'
 
 // 이름으로 검색시 조회되는 내용
 const searchResult = ref([])
